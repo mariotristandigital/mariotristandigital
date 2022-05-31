@@ -1,4 +1,5 @@
 
+
 <p align='center'>
 <a href="https://www.credly.com/badges/0438d817-6697-44c1-8572-82d7c0e25ae4/public_url" target="_blank"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CERT-Expert-DevOps-Engineer-600x600.png"></a>  
   <a href="https://www.credly.com/badges/a84a9db9-1153-479d-acd9-5a11ae32f11c/public_url" target="_blank"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-administrator-associate-600x600.png"></a>  
@@ -10,7 +11,8 @@
 <a href="https://www.credly.com/badges/c839c97d-3b3c-47fb-8726-bdffab8008af/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/azure-data-fundamentals-600x600.png"></a>
 <a href="https://www.credly.com/badges/9d3a9f5d-6806-48b3-9a4f-bb9415fb9092/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-azure-ai-fundamentals.png"></a>
   <a href="https://www.credly.com/badges/76bf1ecb-e506-42b1-a144-6dcb1bfba39a/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-power-platform-fundamentals.png"></a>
-<a href="https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url">
+<a href="https://www.credly.com/badges/5c6951b2-88ff-4ead-a35b-b3d5a1b592b0/public_url"><img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/microsoft-certified-security-compliance-and-identity-fundamentals.png"></a>
+  <a href="https://www.credly.com/badges/611af53c-009f-4249-9ca4-26d8cab18010/public_url">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/practitioner.png"></a>
 <a href="https://www.credly.com/badges/1fe5dcbc-d445-44e9-93be-fc4e9e8d865f/public_url">
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-LLL.png"></a>
@@ -18,6 +20,7 @@
 <img  height="80" src="https://raw.githubusercontent.com/mariotristan/mariotristan/main/images/CertiProf-Badge-SFPC_1.png">
   </a>
 </p>
+
 
 - 👋 Hi, I’m Mario Tristan
 - 👀 I’m interested in DevOps, Automation, Architecture.
